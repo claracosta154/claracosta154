@@ -8,4 +8,4 @@
 <div style="display: inline_block"></br> </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracosta154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracosta154&layout=compact locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
